@@ -5,7 +5,7 @@ Your ultimate guide to mastering **Data Structures and Algorithms** for FAANG an
 
 ## 🟢 **Easy Level (Fundamentals - Must Do for Beginners)**
 ### 🔹 **Arrays & Hashing**  
-- 🔗 [Two Sum](https://leetcode.com/problems/two-sum/)  
+- 🔗 [Two Sum](https://leetcode.com/problems/two-sum/) 
 - 🔗 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
 - 🔗 [Majority Element](https://leetcode.com/problems/majority-element/)  
 - 🔗 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  
@@ -187,12 +187,12 @@ Your ultimate guide to mastering **Data Structures and Algorithms** for FAANG an
 ## 🔴 **Hard Level (Advanced DSA - Interview Focused)**
 ### **🔹 Arrays & Hashing**
 
-- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
-- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [Candy](https://leetcode.com/problems/candy/)
+- 🔗 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- 🔗 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- 🔗 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- 🔗 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- 🔗 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- 🔗 [Candy](https://leetcode.com/problems/candy/)
 
 ---
 
